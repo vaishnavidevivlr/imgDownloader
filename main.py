@@ -1,3 +1,6 @@
+# make sure this pip is already intalled 
+#pip install google_images_download
+
 # importing google_images_download module 
 from google_images_download import google_images_download  
   
